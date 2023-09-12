@@ -1,0 +1,41 @@
+.login-page{
+    /* fallback for old browsers */
+    background: #6a11cb;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+  }
+  .button-color{
+    background-color: #0d6efd;
+    height: 40px;
+    color: #fff;
+    text-align: center;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    align-items: center;
+    justify-content: center;
+  }
+  .login-form {
+    width: 400px;
+  }
+  .title-text{
+    text-align: center;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    align-items: center;
+    justify-content: center;
+  }
+  .navigation{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; /* Màu nền của thanh điều hướng */
+    z-index: 1000;
+
+  }

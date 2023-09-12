@@ -1,0 +1,38 @@
+.side-nav{
+    width: 256px;
+    height: 100vh;
+   
+}
+.tab-h1{
+    width: 92px;
+    height: 100%;
+}
+.tab-h3{
+    width: 300px;
+    height: 100%;
+}
+.tab-h2{
+    width: 100px;
+    height: 100%;
+}
+.tab-h4{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.tab-tr-all{
+    width: 100%;
+    height: 100px;
+    
+}
+.table-setting {
+    overflow-y: scroll;
+}
+.btn-success{
+    color: #fff;
+    background-color: #198754;
+}
+.btn-warning{
+    color: #000;
+    background-color:  #ffc107;
+}

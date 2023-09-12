@@ -1,0 +1,53 @@
+.item-tour-ratting {
+    font-size: 16px;
+    color: #fff;
+    background: #fdc432;
+    width: 50px;
+    height: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.item-discount {
+    background-color: #fd5056;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 50%;
+    height: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.font-price {
+    color: #fd5056;
+}
+.description-text {
+    height: 50px;
+}
+.img-size{
+    width: 100%;
+    height: 250px;
+}
+.booking-button{
+    background: #333333;
+    border-radius: 10px;
+    height: 50px;
+    width: 200px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 15px;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}

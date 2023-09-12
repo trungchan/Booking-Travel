@@ -1,0 +1,122 @@
+
+
+.checkout-body-right{
+    background: #f9f9f9;
+    border: 1px solid #d5d5d5;
+    padding: 20px;
+    border-radius: 10px;
+    height: 500px;
+    margin-bottom: 80px;
+}
+.font-price {
+    color: #fd5056;
+    font-size: 20px;
+    line-height: 15px;
+    font-weight: 500;
+}
+.checkout-item {
+    background: #ffc10e;
+    border-radius: 10px;
+    height: 50px;
+    width: 100%;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-align: center;
+}
+.checkout-text-heading{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    color: #2d4271;
+    width: 100%;
+}
+
+
+
+.text-font-all{
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 38px;
+}
+.input-form{
+    width: 100%;
+}
+.header-bg{
+    background-color: #2d4271;
+    color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    align-items: center;
+}
+.booking-button{
+    background: #333333;
+    border-radius: 8px;
+    height: 40px;
+    width: 150px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 10px;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
+.item-tour-ratting {
+    font-size: 16px;
+    color: #fff;
+    background: #fdc432;
+    width: 50px;
+    height: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.item-discount {
+    background-color: #fd5056;
+    color: #fff;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: 15px;
+    width: 50%;
+    height: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.font-price {
+    color: #fd5056;
+}
+.description-text {
+    height: 50px;
+}
+.img-size{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.card-item{
+    width: 100%;
+    max-height: 250px;
+}
+.select-w{
+    width: 165px !important
+}
